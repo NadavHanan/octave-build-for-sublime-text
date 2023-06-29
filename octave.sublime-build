@@ -1,0 +1,5 @@
+{
+    "selector": "source.octave",
+    "shell_cmd":"start cmd /c \"octave --persist \"$file\"\""
+    //"cmd": ["octave-cli","$file_name"]
+}
